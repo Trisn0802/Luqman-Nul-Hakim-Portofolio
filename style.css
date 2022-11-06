@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "Jokerman";
+  src: url("jokerman/Jokerman.ttf");
+}
+
+body {
+  font-family: "Jokerman";
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #ffd297;
